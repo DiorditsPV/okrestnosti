@@ -2,6 +2,22 @@
 
 Десять иллюстрированных плакатов о Москве: от Богородского и Преображенской площади до Домодедовской и Орехово-Борисово. Серия соединяет узнаваемую архитектуру, районные истории и ясную кириллическую типографику.
 
+## Примеры сгенерированных плакатов
+
+Финальные версии. Нажмите на изображение, чтобы открыть его в полном размере.
+
+| Моссовет | Красный богатырь |
+| --- | --- |
+| ![Моссовет — советское кино, Сокольники и пионеры](output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png) | ![Красный богатырь — рабочие и индустриализация](output/bogorodskoe-preobrazhenskaya--03-positive-series--04-krasny-bogatyr.png) |
+| **Храм Преображения** | **Каланча** |
+| ![Храм Преображения — Пасха, семьи и весна](output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png) | ![Каланча — пожарные на передышке](output/bogorodskoe-preobrazhenskaya--03-positive-series--02-kalancha.png) |
+| **Авангард** | **Водолей** |
+| ![Авангард — стилизация 1994–2000](output/domodedovskaya-orekhovo-borisovo--01-avangard-vodoley--05-avangard.png) | ![Водолей — семейная прогулка, исправленная финальная версия](output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png) |
+| **Домодедовский рынок** | **Борисовские пруды** |
+| ![Домодедовский рынок — районная торговая жизнь](output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--07-market.png) | ![Борисовские пруды — летний маршрут у воды](output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--08-borisovskie-prudy.png) |
+| **Царицыно** | **Бирюлёвский дендропарк** |
+| ![Царицыно — дворец и парк](output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--09-tsaritsyno.png) | ![Бирюлёвский дендропарк — тихая прогулка у пруда](output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--10-dendropark.png) |
+
 ## Галерея
 
 [Открыть общую галерею](index.html) — десять финальных плакатов, по одной версии каждого сюжета.
