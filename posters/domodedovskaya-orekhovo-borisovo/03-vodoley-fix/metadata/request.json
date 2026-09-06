@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "title": "Водолей — исправление положения девушки",
+  "request": "Исправить дефект: девушка идёт сквозь бетонное ограждение на плакате «Водолей».",
+  "path_base": "request-directory",
+  "posters": [
+    {
+      "id": "06-vodoley",
+      "title": "Водолей",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png",
+      "prompt": "prompt/06-vodoley.txt",
+      "output_sha256": "4be82299b835f9959261272b3a905dd0df1a97583d7a07bf7519eff0e318dde0",
+      "prompt_sha256": "160d5881bc80470e9a7e4e21f11b71a9160474a2e1f5a0bba252a2b4a3832161",
+      "inputs": [
+        {
+          "path": "input/06-vodoley/original-poster.png",
+          "sha256": "5f360c8f1691faa74b2d6ab384b31c1b88babaa27a200e481f4258fe32a38dd7",
+          "role": "edit-target"
+        }
+      ]
+    }
+  ]
+}
