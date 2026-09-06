@@ -8,9 +8,17 @@
 
 Нажмите на превью, чтобы открыть полный размер.
 
-| Богородское · Храм Преображения | Преображенская площадь · Моссовет | Домодедовская · Водолей |
-| --- | --- | --- |
-| <a href="output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png"><img src="output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png" width="240" alt="Храм Преображения — Пасха, семьи и весна"></a> | <a href="output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png"><img src="output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png" width="240" alt="Моссовет — советское кино, Сокольники и пионеры"></a> | <a href="output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png"><img src="output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png" width="240" alt="Водолей — исправленная финальная версия"></a> |
+**Богородское — Храм Преображения**
+
+<a href="output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png"><img src="output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png" width="480" alt="Храм Преображения — Пасха, семьи и весна"></a>
+
+**Преображенская площадь — Моссовет**
+
+<a href="output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png"><img src="output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png" width="480" alt="Моссовет — советское кино, Сокольники и пионеры"></a>
+
+**Домодедовская — Водолей**
+
+<a href="output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png"><img src="output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png" width="480" alt="Водолей — исправленная финальная версия"></a>
 
 ## Галерея
 
