@@ -6,9 +6,9 @@
 
 Три примера из коллекции. Все десять финальных плакатов доступны в [output/](output/).
 
-### Богородское — Красный богатырь
+### Богородское — Храм Преображения
 
-![Красный богатырь — рабочие и индустриализация](output/bogorodskoe-preobrazhenskaya--03-positive-series--04-krasny-bogatyr.png)
+![Храм Преображения — Пасха, семьи и весна](output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png)
 
 ### Преображенская площадь — Моссовет
 
