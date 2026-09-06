@@ -1,0 +1,45 @@
+{
+  "source": {
+    "title": "File:Moscow, Krasnobogatyrskaya 6, fire station (21255849481).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Moscow%2C_Krasnobogatyrskaya_6%2C_fire_station_%2821255849481%29.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Moscow%2C_Krasnobogatyrskaya_6%2C_fire_station_%2821255849481%29.jpg/960px-Moscow%2C_Krasnobogatyrskaya_6%2C_fire_station_%2821255849481%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow,_Krasnobogatyrskaya_6,_fire_station_(21255849481).jpg",
+    "width": 3199,
+    "height": 2134,
+    "author": "Gennady Grachev from Moscow, Russia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "date": "Taken on 29 August 2015, 17:03",
+    "description": "Краснобогатырская улица 6 - пожарная часть б. \"Красного Богатыря\", 1933 год, арх. А. В. Куровской.\n\nMoscow in 2015; Москва в 2015",
+    "id": "09",
+    "filename": "b03-fire-tower-2015.jpg",
+    "name": "Пожарное депо с каланчой",
+    "area": "Богородское",
+    "address": "Краснобогатырская ул., 6",
+    "photo_date": "2015-08-29",
+    "role": "Основной",
+    "strength": "Башня над низким корпусом даёт ясный силуэт и место для перекрытия крупного заголовка.",
+    "limits": "Тёмный нижний фасад, ветви, провода и баннер справа."
+  },
+  "role": "hero",
+  "strategy": "semantic-recompose",
+  "geometry": "Preserve original photographic viewpoint and real roof slopes. No deterministic rectification needed.",
+  "verified": [
+    "Пожарное депо с каланчой",
+    "Краснобогатырская ул., 6",
+    "2015-08-29"
+  ],
+  "observed": "One square tower connected to the garage; broad shallow pyramidal cap with overhanging eaves; narrow vertical tower windows; unchanged garage bays; the original oblique perspective and low wing.",
+  "user_confirmed": "Four selected objects, including Красный богатырь.",
+  "unconfirmed_excluded": [
+    "Building dates and architects not used."
+  ],
+  "required_text": [
+    "02",
+    "МОСКВА · БОГОРОДСКОЕ",
+    null,
+    "КАЛАНЧА",
+    "Пожарное депо",
+    "Краснобогатырская улица, 6"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "completed": "2026-09-06",
+  "tool": "built-in imagegen",
+  "calls": 1,
+  "automatic_retries": 0,
+  "generated_original": "",
+  "output": "../../../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--09-tsaritsyno.png",
+  "width": 1448,
+  "height": 1086,
+  "mode": "RGB",
+  "sha256": "41fe9664ab954bf5cd201627b44a25d3affef393babf5dcd75dd795a371b514c",
+  "prompt_sha256": "04354588ea262e7b317b4d9daf6b1dfe48216fb1d41672602f78f248e71fb996",
+  "inputs": [
+    {
+      "path": "../../input/09-tsaritsyno/01-tsaritsyno-palace.jpg",
+      "sha256": "bb827dc7d81719c14c16c76ad9adcba0fa0211711821d8ef5ee08faab191a036"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/09-tsaritsyno/03-typeset-guide.png",
+      "sha256": "310007e76444bfcdbd6cbf8fa1f5c5a6e1f8f9e94562dd2911b76c841b8c049b"
+    }
+  ]
+}

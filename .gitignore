@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.codex/
+.agents/
+
+# Local backup of the old layout; not part of the public project.
+archive/

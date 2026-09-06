@@ -1,0 +1,30 @@
+{
+  "07-market": {
+    "name": "Домодедовский рынок",
+    "note": "Продукты, разговоры и районная торговая жизнь.",
+    "source": "https://2gis.ru/moscow/firm/4504127908805062/tab/services",
+    "history": "Сельскохозяйственный рынок на Ореховом бульваре, 14 ст4в; рядом с метро Домодедовская.",
+    "photo": "sources/domodedovsky-market-proxy.png"
+  },
+  "08-borisovskie-prudy": {
+    "name": "Борисовские пруды",
+    "note": "Вода, берег и длинный летний маршрут.",
+    "source": "https://commons.wikimedia.org/wiki/Category:Borisov_Ponds",
+    "history": "Большой городской пруд и парк на территории Орехово-Борисово Северного и Москворечья-Сабурова.",
+    "photo": "sources/borisovskie-prudy.jpg"
+  },
+  "09-tsaritsyno": {
+    "name": "Царицыно",
+    "note": "Красный кирпич, зелёные крыши и прогулка в парке.",
+    "source": "https://tsaritsyno-museum.ru/tours/ekskursii-dlya-organizovannyh-grupp/",
+    "history": "Музей-заповедник и дворцово-парковый ансамбль; станция Орехово находится рядом с территорией.",
+    "photo": "sources/tsaritsyno-palace.jpg"
+  },
+  "10-dendropark": {
+    "name": "Бирюлёвский дендропарк",
+    "note": "Берёзы, редкие деревья и тихий пруд.",
+    "source": "https://mospesh.ru/dendropark.html",
+    "history": "Парк с аллеями, коллекцией деревьев и прудами на юге Москвы.",
+    "photo": "sources/biryulevsky-dendropark.jpg"
+  }
+}

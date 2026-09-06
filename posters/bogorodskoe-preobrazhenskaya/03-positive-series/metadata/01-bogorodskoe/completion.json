@@ -1,0 +1,27 @@
+{
+  "completed": "2026-09-06",
+  "tool": "built-in imagegen",
+  "calls": 1,
+  "automatic_retries": 0,
+  "generated_original": "/Users/user/.codex/generated_images/01a0731e-a3c7-7713-beb3-87071e2c537a/exec-eb9a0d5d-d2cc-4d78-9529-298dd5f8e9e4.png",
+  "output": "../../../../../output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png",
+  "width": 1448,
+  "height": 1086,
+  "mode": "RGB",
+  "sha256": "de795691ce51e251ebb0e14a0a6b8d1e16eb2a46e2945ca269f19cb752e4a28f",
+  "prompt_sha256": "2e68fecbf6cac426092bda857f537cd9016e2cc1782ccb5786c624b0e3c608b0",
+  "inputs": [
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--01-original--01-bogorodskoe.png",
+      "sha256": "48b57a2eab8d38208ec689e6aaeb4e2ac9624e67c8972b76c124e1cc80543404"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/01-bogorodskoe/03-b01-bogorodskoe-church-2017.jpg",
+      "sha256": "f049a6b2570c058169b9377405c69744fc36b0e3c9c72a9792b79b00ce3b1053"
+    }
+  ]
+}

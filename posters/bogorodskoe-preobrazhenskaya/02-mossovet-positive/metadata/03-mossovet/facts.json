@@ -1,0 +1,45 @@
+{
+  "source": {
+    "title": "File:Moscow, Preobrazhenskaya Square, Mossovet cinema (31387301671).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Moscow%2C_Preobrazhenskaya_Square%2C_Mossovet_cinema_%2831387301671%29.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Moscow%2C_Preobrazhenskaya_Square%2C_Mossovet_cinema_%2831387301671%29.jpg/960px-Moscow%2C_Preobrazhenskaya_Square%2C_Mossovet_cinema_%2831387301671%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow,_Preobrazhenskaya_Square,_Mossovet_cinema_(31387301671).jpg",
+    "width": 3264,
+    "height": 2178,
+    "author": "Gennady Grachev from Moscow, Russia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "date": "Taken on 5 July 2016, 17:55",
+    "description": "Преображенская площадь. Кинотеатр Моссовета",
+    "id": "10",
+    "filename": "p02-mossovet-2016.jpg",
+    "name": "«Моссовет»",
+    "area": "Преображенская площадь",
+    "address": "Преображенская пл., 12",
+    "photo_date": "2016-07-05",
+    "role": "Основной",
+    "strength": "Почти фронтальный фасад, красные вертикали и собственная вывеска — ясная геометрия для плаката.",
+    "limits": "У входа человек, по бокам машины, перед фасадом провода; это облик 2016 года."
+  },
+  "role": "hero",
+  "strategy": "semantic-recompose",
+  "geometry": "Preserve original photographic viewpoint and real roof slopes. No deterministic rectification needed.",
+  "verified": [
+    "«Моссовет»",
+    "Преображенская пл., 12",
+    "2016-07-05"
+  ],
+  "observed": "Four visible red structural verticals in their source positions; the same horizontal fascia and glazing bands; actual rooftop МОССОВЕТ sign; complete main frontal frontage and entrance steps; no added stories or changed window-bay rhythm.",
+  "user_confirmed": "Four selected objects, including Красный богатырь.",
+  "unconfirmed_excluded": [
+    "Building dates and architects not used."
+  ],
+  "required_text": [
+    "03",
+    "МОСКВА · ПРЕОБРАЖЕНКА",
+    null,
+    "МОССОВЕТ",
+    null,
+    "Преображенская площадь, 12"
+  ]
+}

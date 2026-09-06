@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "title": "Моссовет — светлая версия",
+  "request": "переделай Моссовет на более позитивнй тон, референс - кино в СССР, Сокольники, Пионеры",
+  "path_base": "request-directory",
+  "posters": [
+    {
+      "id": "03-mossovet",
+      "title": "Преображенская площадь — Моссовет",
+      "latest": true,
+      "output": "../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "prompt": "prompt/03-mossovet.txt",
+      "output_sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed",
+      "prompt_sha256": "263c7c643e861b62ef7cad427790565e18e80b98954126fb70be175d1b1debd0",
+      "inputs": [
+        {
+          "path": "input/03-mossovet/01-03-mossovet.png",
+          "sha256": "75bba79b7ccd9b5171e1692c03741134d9c8bc704ec2ae292872ca1e048ceedd"
+        },
+        {
+          "path": "input/03-mossovet/02-soviet-cinema-reference.jpg",
+          "sha256": "2bbeeab6cf2ee101c9caf6fb88051af5442cd336f432455cb92b56b6e1816c1e"
+        },
+        {
+          "path": "input/03-mossovet/03-p02-mossovet-2016.jpg",
+          "sha256": "5db2d775449ee15a9518d48c8a7c32cbca8b8251180414f9243bf98f2adb17b6"
+        }
+      ]
+    }
+  ]
+}

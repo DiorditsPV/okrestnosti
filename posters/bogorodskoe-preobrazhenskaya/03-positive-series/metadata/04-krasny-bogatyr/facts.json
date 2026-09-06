@@ -1,0 +1,45 @@
+{
+  "source": {
+    "title": "File:Moscow, Krasnobogatyrskaya 2 - former Bogatyr factory (21221759366).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Moscow%2C_Krasnobogatyrskaya_2_-_former_Bogatyr_factory_%2821221759366%29.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Moscow%2C_Krasnobogatyrskaya_2_-_former_Bogatyr_factory_%2821221759366%29.jpg/960px-Moscow%2C_Krasnobogatyrskaya_2_-_former_Bogatyr_factory_%2821221759366%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow,_Krasnobogatyrskaya_2_-_former_Bogatyr_factory_(21221759366).jpg",
+    "width": 3239,
+    "height": 2157,
+    "author": "Gennady Grachev from Moscow, Russia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "date": "Taken on 25 August 2015, 19:16",
+    "description": "Краснобогатырская улица, 2. Главный корпус бывшего завода \"Красный богатырь\".",
+    "id": "05",
+    "filename": "b02-krasny-bogatyr-2015.jpg",
+    "name": "«Красный богатырь»",
+    "area": "Богородское",
+    "address": "Краснобогатырская ул., 2",
+    "photo_date": "2015-08-25",
+    "role": "Основной",
+    "strength": "Крупный кирпичный корпус с ритмом высоких окон — основа для индустриального плаката.",
+    "limits": "Фасад тёмный; грузовик закрывает низ, справа здание обрезано. Лучше сохранять видимый фрагмент корпуса."
+  },
+  "role": "hero",
+  "strategy": "semantic-recompose",
+  "geometry": "Preserve original photographic viewpoint and real roof slopes. No deterministic rectification needed.",
+  "verified": [
+    "«Красный богатырь»",
+    "Краснобогатырская ул., 2",
+    "2015-08-25"
+  ],
+  "observed": "Original oblique viewpoint; left raised rooftop block; long sloping cornice; original visible window rows and brick piers; right edge remains cropped and the truck-hidden lower part is not reconstructed.",
+  "user_confirmed": "Four selected objects, including Красный богатырь.",
+  "unconfirmed_excluded": [
+    "Building dates and architects not used."
+  ],
+  "required_text": [
+    "04",
+    "МОСКВА · БОГОРОДСКОЕ",
+    "КРАСНЫЙ",
+    "БОГАТЫРЬ",
+    "Фрагмент фабричного корпуса",
+    "Краснобогатырская улица, 2"
+  ]
+}

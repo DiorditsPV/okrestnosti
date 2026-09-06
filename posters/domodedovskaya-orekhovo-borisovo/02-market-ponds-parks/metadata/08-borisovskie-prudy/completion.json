@@ -1,0 +1,27 @@
+{
+  "completed": "2026-09-06",
+  "tool": "built-in imagegen",
+  "calls": 1,
+  "automatic_retries": 0,
+  "generated_original": "",
+  "output": "../../../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--08-borisovskie-prudy.png",
+  "width": 1448,
+  "height": 1086,
+  "mode": "RGB",
+  "sha256": "72cf2cc0202aad39cd29b824bf5cafded377721707df09f8beb922c07bc54b3a",
+  "prompt_sha256": "df3d7318a399ae5a5676b83faa3b84a07c3ffb686857a47399506b6461aedda5",
+  "inputs": [
+    {
+      "path": "../../input/08-borisovskie-prudy/01-borisovskie-prudy.jpg",
+      "sha256": "279046454efb9d2b0c2c3d5b6af3d078ef7d510a8a891bbeb3e1efe12c3c2366"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/08-borisovskie-prudy/03-typeset-guide.png",
+      "sha256": "2225aba9fce6fb657ea11557640f2b3abbb1fdec767af67c160420d306bf63df"
+    }
+  ]
+}

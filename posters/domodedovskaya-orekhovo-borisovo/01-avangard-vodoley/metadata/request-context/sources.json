@@ -1,0 +1,29 @@
+{
+  "05-avangard": {
+    "name": "Авангард",
+    "address": "Улица Генерала Белова, 18",
+    "photo": "sources/avangard-official.png",
+    "page": "https://mos-razvitie.ru/avangard",
+    "image_url": "https://static.tildacdn.com/tild3734-3839-4432-b130-346638303366/XXXL.png",
+    "publisher": "Мосразвитие",
+    "author": null,
+    "photo_date": null,
+    "license": "Свободная лицензия не указана",
+    "history": "Здание введено в эксплуатацию в 1982 году; в 1996 году кинотеатр реорганизован в центр культуры и искусства.",
+    "comment": "Встреча у центра культуры: джинсовки, кассетный плеер и летний свет."
+  },
+  "06-vodoley": {
+    "name": "Водолей",
+    "address": "Ореховый бульвар, 15",
+    "photo": "sources/vodoley-malls.jpg",
+    "page": "https://www.malls.ru/rus/malls/document15474.shtml",
+    "image_url": "https://www.malls.ru/upload/resize_cache/iblock/33d/1200_631_1/33d23335d319b29eb8601ca626fe7115.jpg",
+    "publisher": "Моллы.Ру",
+    "author": null,
+    "photo_date": null,
+    "license": "Свободная лицензия не указана",
+    "history": "В каталоге указано открытие 1 ноября 1997 года; 1997 год также подтверждает фоторепортаж Retail.ru от 21 июля 2008 года.",
+    "history_page": "https://www.retail.ru/photoreports/master-klass-v-pole-zreniya-torgovyy-tsentr-galereya-vodoley/",
+    "comment": "Семейная суббота: яркие ветровки, пакет покупок и синие крыши."
+  }
+}

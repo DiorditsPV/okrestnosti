@@ -1,0 +1,45 @@
+{
+  "source": {
+    "title": "File:2017 Moscow Bogorodskoye Church 02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2017_Moscow_Bogorodskoye_Church_02.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2017_Moscow_Bogorodskoye_Church_02.jpg/960px-2017_Moscow_Bogorodskoye_Church_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2017_Moscow_Bogorodskoye_Church_02.jpg",
+    "width": 5743,
+    "height": 4000,
+    "author": "Andrey Korzun",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2017-03-28 14:20:10",
+    "description": "Church of the Transfiguration of the Lord in Bogorodskoye, Moscow. 1877-1880. Built in the village of Bogorodskoye, which in the XX century became part of the city. The only surviving wooden church in Moscow.",
+    "id": "13",
+    "filename": "b01-bogorodskoe-church-2017.jpg",
+    "name": "Храм Преображения в Богородском",
+    "area": "Богородское",
+    "address": "Краснобогатырская ул., 17",
+    "photo_date": "2017-03-28",
+    "role": "Основной",
+    "strength": "Цельный силуэт, колокольня, резные карнизы и розовые деревянные стены. Подходит для вырезки на цветовое поле.",
+    "limits": "Навес и ограждение у нижней части фасада; на заднем плане жилые дома."
+  },
+  "role": "hero",
+  "strategy": "semantic-recompose",
+  "geometry": "Preserve original photographic viewpoint and real roof slopes. No deterministic rectification needed.",
+  "verified": [
+    "Храм Преображения в Богородском",
+    "Краснобогатырская ул., 17",
+    "2017-03-28"
+  ],
+  "observed": "Three visible unequal roof accents with their original crosses; an open central belfry with a visible bell; left gabled entrance and linked right wing; carved white trim and wooden wall boards; the same oblique viewpoint and roof proportions.",
+  "user_confirmed": "Four selected objects, including Красный богатырь.",
+  "unconfirmed_excluded": [
+    "Building dates and architects not used."
+  ],
+  "required_text": [
+    "01",
+    "МОСКВА · БОГОРОДСКОЕ",
+    null,
+    "БОГОРОДСКОЕ",
+    "Храм Преображения",
+    "Краснобогатырская улица, 17"
+  ]
+}

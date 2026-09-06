@@ -1,0 +1,14 @@
+Use case: style-transfer.
+Asset type: one finished opaque landscape 4:3 illustrated Moscow district poster in the same warm, humane architectural series as the approved Mossovet reference.
+
+Input images:
+Image 1 is the architectural source photograph and identity check.
+Image 2 is the approved bright Mossovet poster style reference: warm paper, painted architecture, red and turquoise accents, clear Cyrillic hierarchy, optimistic daylight and people integrated into the place. Do not copy its building or text.
+Image 3 is a neutral typography guide: use only its positions and real Cyrillic letterforms; never show its gray polygon, labels or dashed lines.
+
+Style: cheerful hand-painted architectural poster with subtle screenprint grain, confident late-1990s/early-2000s Moscow color, warm ivory paper, cobalt blue, vermilion and fresh green. Architecture remains the dominant subject. Remove modern cars, logos, wires and unrelated advertising. No watermark, signature, extra slogans or illegible micro-writing. Keep every listed text line readable and exact.
+Primary request: depict the Biryulyovsky Dendropark as a calm southern Moscow nature landmark. Preserve the small pond, white-barked birches and green reflections from the source. Add a simple path with a grandparent and child walking, one bird and a small hand-drawn botanical notebook, keeping people secondary. The poster should feel like a neighborhood discovery: fresh air, rare trees and a quiet pond. Use a light aqua and leaf-green field, warm yellow sunlight and a large vermilion title. No palace, no extra buildings, no botanical labels beyond the listed text. Text (verbatim):
+10
+МОСКВА · БИРЮЛЁВО
+БИРЮЛЁВСКИЙ ДЕНДРОПАРК
+Пруд и берёзовая роща

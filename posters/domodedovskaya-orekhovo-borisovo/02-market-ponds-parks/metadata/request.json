@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "title": "Домодедовская и окрестности — рынок, пруды и парки",
+  "request": "Найди другие достопримечательности метро Домодедовской и Орехово-Борисово и сделай постеры. Идеи: Домодедовский рынок, Борисовские пруды; придумай ещё.",
+  "path_base": "request-directory",
+  "posters": [
+    {
+      "id": "07-market",
+      "title": "Домодедовский рынок",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--07-market.png",
+      "prompt": "prompt/07-market.txt",
+      "output_sha256": "5a162b8b9ded3a1486fc1ab7ddac4bfd58f658e094a65eada08fa46413e3ab4d",
+      "prompt_sha256": "890f14155f8cdbfe216d5a6efaa791cb2495402eb657139a9fa160ff6abbbc33",
+      "inputs": [
+        {
+          "path": "input/07-market/01-domodedovsky-market-proxy.png",
+          "sha256": "27a993e236cb46b5b4dd960ce983aa792945ea54f7b35263a686ccd93a24a031"
+        },
+        {
+          "path": "input/07-market/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/07-market/03-typeset-guide.png",
+          "sha256": "f73cda0566a820a1113d46ed0812ccad4d3c7554b51e864e2a21577d367be576"
+        }
+      ]
+    },
+    {
+      "id": "08-borisovskie-prudy",
+      "title": "Борисовские пруды",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--08-borisovskie-prudy.png",
+      "prompt": "prompt/08-borisovskie-prudy.txt",
+      "output_sha256": "72cf2cc0202aad39cd29b824bf5cafded377721707df09f8beb922c07bc54b3a",
+      "prompt_sha256": "373583850c0d333f6a2239192af5b8c5b5bc6e73b3363731c0744bac619ae8a3",
+      "inputs": [
+        {
+          "path": "input/08-borisovskie-prudy/01-borisovskie-prudy.jpg",
+          "sha256": "279046454efb9d2b0c2c3d5b6af3d078ef7d510a8a891bbeb3e1efe12c3c2366"
+        },
+        {
+          "path": "input/08-borisovskie-prudy/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/08-borisovskie-prudy/03-typeset-guide.png",
+          "sha256": "2225aba9fce6fb657ea11557640f2b3abbb1fdec767af67c160420d306bf63df"
+        }
+      ]
+    },
+    {
+      "id": "09-tsaritsyno",
+      "title": "Царицыно",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--09-tsaritsyno.png",
+      "prompt": "prompt/09-tsaritsyno.txt",
+      "output_sha256": "41fe9664ab954bf5cd201627b44a25d3affef393babf5dcd75dd795a371b514c",
+      "prompt_sha256": "d8994526a7fa1f1ba429611532cc34f3770993a5af3c71a878d1a4e02f3f27ba",
+      "inputs": [
+        {
+          "path": "input/09-tsaritsyno/01-tsaritsyno-palace.jpg",
+          "sha256": "bb827dc7d81719c14c16c76ad9adcba0fa0211711821d8ef5ee08faab191a036"
+        },
+        {
+          "path": "input/09-tsaritsyno/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/09-tsaritsyno/03-typeset-guide.png",
+          "sha256": "310007e76444bfcdbd6cbf8fa1f5c5a6e1f8f9e94562dd2911b76c841b8c049b"
+        }
+      ]
+    },
+    {
+      "id": "10-dendropark",
+      "title": "Бирюлёвский дендропарк",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--10-dendropark.png",
+      "prompt": "prompt/10-dendropark.txt",
+      "output_sha256": "0a0d666e1856d4c56cbd986c8fe3e943f433b95007f2ba9d8a0b10fd25212111",
+      "prompt_sha256": "ec4d33bad15088ae16c28026777f1fff5d1abcf9ae43b5a755f34a7934b71000",
+      "inputs": [
+        {
+          "path": "input/10-dendropark/01-biryulevsky-dendropark.jpg",
+          "sha256": "8d40095931e09c4d0e17c79f57ddba23e78ccc09d0d0065d7a2827d90d5a22ce"
+        },
+        {
+          "path": "input/10-dendropark/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/10-dendropark/03-typeset-guide.png",
+          "sha256": "cf737cddd5082542322c0b8b5afc2e90b042b315e4f6c8e89535b6aaed257479"
+        }
+      ]
+    }
+  ]
+}

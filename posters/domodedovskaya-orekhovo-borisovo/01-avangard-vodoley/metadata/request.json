@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "title": "Домодедовская — Авангард и Водолей",
+  "request": "давай возьмем метро Домодедовская - Авангард и Водолей, только временная стлизация 1994-2000",
+  "path_base": "request-directory",
+  "posters": [
+    {
+      "id": "05-avangard",
+      "title": "Авангард",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--01-avangard-vodoley--05-avangard.png",
+      "prompt": "prompt/05-avangard.txt",
+      "output_sha256": "cae42e63cdf47d3796ebfca2848d29b8509cb32183f273d0a116889f88c55488",
+      "prompt_sha256": "f7772270320ed59ae6f86a4ebb533f087c21662196ccee7b57ad95e6c6b82091",
+      "inputs": [
+        {
+          "path": "input/05-avangard/01-avangard-official.png",
+          "sha256": "0ae91aa0efc58fbccb0ca8da210c2b317211744528fd67d444605a70fea0b3b9"
+        },
+        {
+          "path": "input/05-avangard/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/05-avangard/03-typeset-guide.png",
+          "sha256": "754128d0fcaddee390d80c0a27cdf412654cf9b2a487875ba478839da6e4afac"
+        }
+      ]
+    },
+    {
+      "id": "06-vodoley",
+      "title": "Водолей",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--01-avangard-vodoley--06-vodoley.png",
+      "prompt": "prompt/06-vodoley.txt",
+      "output_sha256": "5f360c8f1691faa74b2d6ab384b31c1b88babaa27a200e481f4258fe32a38dd7",
+      "prompt_sha256": "979515bb228bc3854932a557f7e3c57b801799a8bb870a43129c47c007b2c877",
+      "inputs": [
+        {
+          "path": "input/06-vodoley/01-vodoley-malls.jpg",
+          "sha256": "03b324d13053344008f2489b394f24e4fe414f074b900a83c4856021c2204032"
+        },
+        {
+          "path": "input/06-vodoley/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/06-vodoley/03-typeset-guide.png",
+          "sha256": "4e5899ea7fb1814aa8353a1b05acab5f9fca11d2870bb44a9485ca8109644da1"
+        }
+      ]
+    }
+  ]
+}

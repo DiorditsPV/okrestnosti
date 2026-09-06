@@ -1,0 +1,15 @@
+Use case: style-transfer.
+Asset type: one finished opaque landscape 4:3 illustrated Moscow district poster in the same warm, humane architectural series as the approved Mossovet reference.
+
+Input images:
+Image 1 is the architectural source photograph and identity check.
+Image 2 is the approved bright Mossovet poster style reference: warm paper, painted architecture, red and turquoise accents, clear Cyrillic hierarchy, optimistic daylight and people integrated into the place. Do not copy its building or text.
+Image 3 is a neutral typography guide: use only its positions and real Cyrillic letterforms; never show its gray polygon, labels or dashed lines.
+
+Style: cheerful hand-painted architectural poster with subtle screenprint grain, confident late-1990s/early-2000s Moscow color, warm ivory paper, cobalt blue, vermilion and fresh green. Architecture remains the dominant subject. Remove modern cars, logos, wires and unrelated advertising. No watermark, signature, extra slogans or illegible micro-writing. Keep every listed text line readable and exact.
+Primary request: depict the Domodedovsky agricultural market by Domodedovskaya metro, as a lively neighborhood food market. Use the source facade and glass entry only as an approximate architectural anchor; the market cluster includes low retail halls, a broad entrance, signs and covered produce rows. Recompose it into a welcoming illustrated market forecourt with striped awnings, wooden produce tables, crates of apples, tomatoes and greens, and a few anonymous shoppers and vendors. People are ordinary Muscovites: an older vendor in a pale apron, a parent with a child carrying a net shopping bag, a woman choosing fruit. Make the market feel generous and local, not a luxury food hall. Main title is a large red block composition across the upper third; small cobalt accents and green produce provide rhythm. Text (verbatim):
+07
+МОСКВА · ДОМОДЕДОВСКАЯ
+ДОМОДЕДОВСКИЙ РЫНОК
+Ореховый бульвар, 14
+Do not invent brand names or prices.

@@ -1,0 +1,25 @@
+Use case: style-transfer.
+Asset type: one finished landscape 4:3 architectural art poster, a brighter revised edition of the Mossovet poster.
+
+Primary request: Restyle Image 1 into a warm, joyful Soviet cinema and summer-park poster, evoking 1960s film-comedy posters, leafy Sokolniki leisure and pioneer childhood. Make the change in mood unmistakable.
+
+Input images:
+Image 1 is the EDIT TARGET: the existing Mossovet poster. Retain the recognizable main building, its near-frontal viewpoint, series number 03, large lower title and the exact location text.
+Image 2 is the PRIMARY STYLE REFERENCE: the yellow Soviet comedy poster. Borrow its sunny flat color, lively painted illustration, economical print separations, human warmth and expressive Cyrillic rhythm. Do not copy its people, balcony, film title, credits or logos.
+Image 3 is the original Mossovet PHOTOGRAPH, used only to protect architectural identity: four red vertical columns, the broad horizontal fascia, glazing bands, entrance steps and rooftop МОССОВЕТ sign. Do not restore cars, poles, advertisements or overhead wires.
+
+Scene and mood: A sunny summer afternoon, open and welcoming. Replace the charcoal background and severe solid red rectangle with a spacious butter-yellow and warm ivory sky-field, light jade park foliage and small golden sunlight accents. Leafy branches may enter from the upper corners and slim park trees may frame the side edges, leaving the facade clear. The visual association with Sokolniki is poetic park atmosphere; the building remains at its real Preobrazhenskaya Square address.
+
+Subject treatment: Render the actual Mossovet as a carefully observed mid-century gouache and screenprinted illustration: warm cream facade planes, the same four vermilion red structural verticals, pale turquoise glazing with soft reflected light, dark teal only in small shadow details. Preserve the original number and arrangement of visible structural bays and horizontal bands. Keep the rooftop sign readable, with restrained clean edges. Let the facade feel sunlit and inhabited.
+
+Pioneer motif: Add a small friendly group of three or four anonymous illustrated school-age pioneers walking toward the cinema entrance along the lower side foreground, in white shirts, red neckerchiefs and dark blue shorts or skirts. Relaxed gestures, conversation and one modest ice-cream cone suggest an ordinary happy outing. They are secondary, naturally proportioned small figures, not portraits or a procession, and must not hide the main facade or any lettering. Render them in the same simple painted language as the architecture.
+
+Typography and composition: Keep the main architecture dominant across the middle and lower field. The large word МОССОВЕТ enters across the lower edge in warm vermilion or deep green painted block Cyrillic, with gentle human irregularity inspired by Soviet cinema posters, but every letter fully legible. Its upper edge may overlap only the steps/base strip. Maintain the corner 03 and quiet location caption, strong scale contrast and ample warm negative space. Integrate paper and ink with a delicate authentic print texture; the page should look fresh and cheerful.
+
+Text (verbatim):
+03
+МОСКВА · ПРЕОБРАЖЕНКА
+МОССОВЕТ
+Преображенская площадь, 12
+
+Constraints: Keep four red structural verticals and the real roof sign; no invented floors, domes or decorative architectural additions. All added people and greenery are illustrative motifs, not a claimed historical reconstruction. Do not add any other captions, slogans, dates, film credits, Soviet emblems or watermarks. Do not relabel the location as Sokolniki. Avoid near-black large fields, ominous dramatic lighting and heavy grunge. One coherent opaque landscape poster, aiming for 2048×1536.

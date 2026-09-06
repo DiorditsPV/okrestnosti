@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "title": "Богородское — светлая серия",
+  "request": "Красный богатырь — рабочие, индустриализация, сила; Каланча — спасатели и пожарные СССР, передышка, восхищение; Храм Преображения — Пасха, семьи, весна, верба.",
+  "path_base": "request-directory",
+  "posters": [
+    {
+      "id": "01-bogorodskoe",
+      "title": "Богородское — Храм Преображения",
+      "latest": true,
+      "output": "../../../output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png",
+      "prompt": "prompt/01-bogorodskoe.txt",
+      "output_sha256": "de795691ce51e251ebb0e14a0a6b8d1e16eb2a46e2945ca269f19cb752e4a28f",
+      "prompt_sha256": "6906892e775e8ccc3180825f976a2f668feb990e314506cd4c14d84836663c6d",
+      "inputs": [
+        {
+          "path": "input/01-bogorodskoe/01-01-bogorodskoe.png",
+          "sha256": "48b57a2eab8d38208ec689e6aaeb4e2ac9624e67c8972b76c124e1cc80543404"
+        },
+        {
+          "path": "input/01-bogorodskoe/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/01-bogorodskoe/03-b01-bogorodskoe-church-2017.jpg",
+          "sha256": "f049a6b2570c058169b9377405c69744fc36b0e3c9c72a9792b79b00ce3b1053"
+        }
+      ]
+    },
+    {
+      "id": "02-kalancha",
+      "title": "Богородское — Каланча",
+      "latest": true,
+      "output": "../../../output/bogorodskoe-preobrazhenskaya--03-positive-series--02-kalancha.png",
+      "prompt": "prompt/02-kalancha.txt",
+      "output_sha256": "65997bba7bf6be58450e066f818ab932fa70d846a08f882eb9426550db0ca650",
+      "prompt_sha256": "a88c6235cfd3d55bb5af69caaa91e4f2d58465400b4b8e76645449b458ab3121",
+      "inputs": [
+        {
+          "path": "input/02-kalancha/01-02-kalancha.png",
+          "sha256": "aec0e1c830ff06753e2a01ff6b416a8aa042a1d9bf452aaaed9201cc7b6ce556"
+        },
+        {
+          "path": "input/02-kalancha/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/02-kalancha/03-b03-fire-tower-2015.jpg",
+          "sha256": "a43f6e29dd1e776b0f094868a763ac809d992552feefc916679603ef598903dd"
+        }
+      ]
+    },
+    {
+      "id": "04-krasny-bogatyr",
+      "title": "Богородское — Красный богатырь",
+      "latest": true,
+      "output": "../../../output/bogorodskoe-preobrazhenskaya--03-positive-series--04-krasny-bogatyr.png",
+      "prompt": "prompt/04-krasny-bogatyr.txt",
+      "output_sha256": "48aff77f5c9759fb9fa7f52605ab564c9ebaf43ed824094f96ac24690b12d408",
+      "prompt_sha256": "e13704245297dc5be7a82eb135138eb2f068adebd90ceb68f26d95e6c348cf5b",
+      "inputs": [
+        {
+          "path": "input/04-krasny-bogatyr/01-04-krasny-bogatyr.png",
+          "sha256": "4a38caa6d79147c7ade751da5090df82f2c0a1b2268e3d13d0a1a73b00823bbf"
+        },
+        {
+          "path": "input/04-krasny-bogatyr/02-03-mossovet-v2-positive.png",
+          "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+        },
+        {
+          "path": "input/04-krasny-bogatyr/03-b02-krasny-bogatyr-2015.jpg",
+          "sha256": "95f0812714009a41024ac412f3b451ec549aebaec7706b807736300299821e61"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tool": "built-in imagegen",
+  "planned_calls": 1,
+  "automatic_retries": 0,
+  "tool_arguments": {
+    "prompt": "Use case: style-transfer.\nAsset type: one finished opaque landscape 4:3 illustrated Moscow district poster in the same warm, humane architectural series as the approved Mossovet reference.\n\nInput images:\nImage 1 is the architectural source photograph and identity check.\nImage 2 is the approved bright Mossovet poster style reference: warm paper, painted architecture, red and turquoise accents, clear Cyrillic hierarchy, optimistic daylight and people integrated into the place. Do not copy its building or text.\nImage 3 is a neutral typography guide: use only its positions and real Cyrillic letterforms; never show its gray polygon, labels or dashed lines.\n\nStyle: cheerful hand-painted architectural poster with subtle screenprint grain, confident late-1990s/early-2000s Moscow color, warm ivory paper, cobalt blue, vermilion and fresh green. Architecture remains the dominant subject. Remove modern cars, logos, wires and unrelated advertising. No watermark, signature, extra slogans or illegible micro-writing. Keep every listed text line readable and exact.\nPrimary request: depict the Biryulyovsky Dendropark as a calm southern Moscow nature landmark. Preserve the small pond, white-barked birches and green reflections from the source. Add a simple path with a grandparent and child walking, one bird and a small hand-drawn botanical notebook, keeping people secondary. The poster should feel like a neighborhood discovery: fresh air, rare trees and a quiet pond. Use a light aqua and leaf-green field, warm yellow sunlight and a large vermilion title. No palace, no extra buildings, no botanical labels beyond the listed text. Text (verbatim):\n10\nМОСКВА · БИРЮЛЁВО\nБИРЮЛЁВСКИЙ ДЕНДРОПАРК\nПруд и берёзовая роща",
+    "referenced_image_paths": [
+      "../../input/10-dendropark/01-biryulevsky-dendropark.jpg",
+      "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "../../input/10-dendropark/03-typeset-guide.png"
+    ]
+  },
+  "inputs": [
+    {
+      "path": "../../input/10-dendropark/01-biryulevsky-dendropark.jpg",
+      "sha256": "8d40095931e09c4d0e17c79f57ddba23e78ccc09d0d0065d7a2827d90d5a22ce"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/10-dendropark/03-typeset-guide.png",
+      "sha256": "cf737cddd5082542322c0b8b5afc2e90b042b315e4f6c8e89535b6aaed257479"
+    }
+  ],
+  "prompt_sha256": "d62d668879a29d6d41b9fc954825339a67efb0873c21f2f089807161e16f7aa0",
+  "output_path": "../../../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--10-dendropark.png"
+}

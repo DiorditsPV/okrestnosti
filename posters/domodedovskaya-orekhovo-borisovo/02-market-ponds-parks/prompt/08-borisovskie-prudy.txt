@@ -1,0 +1,14 @@
+Use case: style-transfer.
+Asset type: one finished opaque landscape 4:3 illustrated Moscow district poster in the same warm, humane architectural series as the approved Mossovet reference.
+
+Input images:
+Image 1 is the architectural source photograph and identity check.
+Image 2 is the approved bright Mossovet poster style reference: warm paper, painted architecture, red and turquoise accents, clear Cyrillic hierarchy, optimistic daylight and people integrated into the place. Do not copy its building or text.
+Image 3 is a neutral typography guide: use only its positions and real Cyrillic letterforms; never show its gray polygon, labels or dashed lines.
+
+Style: cheerful hand-painted architectural poster with subtle screenprint grain, confident late-1990s/early-2000s Moscow color, warm ivory paper, cobalt blue, vermilion and fresh green. Architecture remains the dominant subject. Remove modern cars, logos, wires and unrelated advertising. No watermark, signature, extra slogans or illegible micro-writing. Keep every listed text line readable and exact.
+Primary request: depict Borisovskie Ponds as a broad urban water landscape shared by Orekhovo-Borisovo and the south of Moscow. Preserve the wide water surface, grassy bank, distant apartment skyline and a quiet wooden jetty from the source. Add a restrained illustrated narrative: two cyclists resting with bicycles, a parent and child near the water, reeds and a single bird. The mood is open summer leisure and a long walk, with cool blue water balancing warm paper and vermilion title. No swimming action, barbecue smoke or invented historic architecture. Text (verbatim):
+08
+МОСКВА · ОРЕХОВО-БОРИСОВО
+БОРИСОВСКИЕ ПРУДЫ
+Парк и набережная

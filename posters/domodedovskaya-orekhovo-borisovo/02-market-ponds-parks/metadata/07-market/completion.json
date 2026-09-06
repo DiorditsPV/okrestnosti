@@ -1,0 +1,27 @@
+{
+  "completed": "2026-09-06",
+  "tool": "built-in imagegen",
+  "calls": 1,
+  "automatic_retries": 0,
+  "generated_original": "",
+  "output": "../../../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--07-market.png",
+  "width": 1448,
+  "height": 1086,
+  "mode": "RGB",
+  "sha256": "5a162b8b9ded3a1486fc1ab7ddac4bfd58f658e094a65eada08fa46413e3ab4d",
+  "prompt_sha256": "69e89362189d565d2cf15005c7c7677172e0df9fcd692550d311b1c95ada4157",
+  "inputs": [
+    {
+      "path": "../../input/07-market/01-domodedovsky-market-proxy.png",
+      "sha256": "27a993e236cb46b5b4dd960ce983aa792945ea54f7b35263a686ccd93a24a031"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/07-market/03-typeset-guide.png",
+      "sha256": "f73cda0566a820a1113d46ed0812ccad4d3c7554b51e864e2a21577d367be576"
+    }
+  ]
+}

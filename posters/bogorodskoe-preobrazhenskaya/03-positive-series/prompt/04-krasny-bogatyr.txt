@@ -1,0 +1,29 @@
+Use case: style-transfer.
+Asset type: exactly one finished opaque landscape 4:3 architectural poster, aiming for 2048×1536, part of the same cheerful illustrated Moscow series as Image 2.
+
+Input images:
+Image 1 is the EDIT TARGET: the existing poster for this place. Retain the recognizable architectural identity, series index and exact location wording.
+Image 2 is the USER-APPROVED PRIMARY STYLE REFERENCE: the bright Mossovet poster. Transfer its sunny warm paper, delicate gouache and screenprint texture, vermilion display lettering, luminous turquoise and green shadows, observed architectural detail, humane narrative figures and optimistic daylight. Do not copy the Mossovet building, its place names, its pioneer characters or its tiny signature-like mark.
+Image 3 is the original PHOTOGRAPH OF THIS BUILDING: use it as an architectural identity check. Preserve actual connected roof forms, facade rhythms and the original viewpoint. Remove the photographic traffic, signs, wires and unrelated urban clutter.
+
+Series visual language: A professionally art-directed mid-century painted poster, warm and alive, with an illustrated real building as the dominant subject. Use luminous warm ivory or butter-yellow fields, red and ochre masonry where present, gentle green/turquoise shadows, and careful small narrative figures. Keep substantial light negative space and confident Cyrillic block lettering. Paper grain is delicate rather than distressed; faces and hands are naturally drawn. Architecture and people belong in one coherent perspective and light. Avoid large near-black fields, heavy gritty halftone, photorealistic cutout people or theatrical gloom.
+
+Primary request: Reimagine Krasny Bogatyr as a positive poster about workers, industrialization and collective strength. Express strength through the authentic factory's scale, long disciplined facade rhythm and the workers' confident bearing.
+
+Scene and architectural treatment: A clear sunny working morning. Illuminate the real red-brick factory in warm terracotta and vermilion, with golden cornice highlights, pale teal glass and low-detail deep green shadows. Preserve the oblique long facade, its raised left roof block, real stepped cornice, repeated tall windows and existing crop at the right. Retain the visible upper factory fragment and its deliberate lower crop rather than inventing hidden ground-floor openings. A warm cream sky field and a restrained red-ochre diagonal ground echo the real roof direction. The building must remain this Moscow rubber-goods factory, not a steelworks; do not add blast furnaces, invented chimneys, cranes or smokestacks.
+
+Human narrative: Three or four anonymous adult factory workers, including a woman, form a compact foreground group near the lower-left open area. They have strong natural proportions and upright relaxed postures, rendered in the same humane painted manner as the Mossovet reference. Simple mid-century work jackets, rolled-up sleeves, blue/ochre overalls, a modest worker's cap and a tied practical headscarf evoke Soviet factory life. One carries a small toolbox, another a rolled technical drawing; a modest pair of rubber work boots being carried or resting by the group can hint at the actual plant's production. Their expressions suggest confidence, mutual respect and pride in useful work. Keep the gestures conversational and purposeful, not a rigid parade or an oversized monument. The group supports the building's scale without hiding its raised roof block or principal window rhythm.
+
+Typography and composition: Keep the two-line name КРАСНЫЙ / БОГАТЫРЬ large and vermilion, with disciplined painted block letters. Let part of the lower word sit behind the real upper cornice while keeping the entire name understandable. Keep 04 as the serif corner index and the district label near the top. Place the exact small fragment caption and street address on an unobscured lower strip, with breathing room around people. Strong ascending perspective, warm daylight, broad shoulders and rhythmic masonry create the sense of strength.
+
+Text (verbatim):
+04
+МОСКВА · БОГОРОДСКОЕ
+КРАСНЫЙ
+БОГАТЫРЬ
+Фрагмент фабричного корпуса
+Краснобогатырская улица, 2
+
+Identity invariants: Original oblique viewpoint; raised left rooftop block; original long stepped cornice; actual visible brick piers and window rhythm; right edge remains truncated. No fictitious factory extension.
+
+Final constraints: Only the listed Cyrillic text and actual source building inscriptions may appear. No extra dates, slogans, names, reference labels, watermarks, artist initials, signatures or illegible micro-writing anywhere. The added people, objects and surrounding atmosphere are clearly illustrative narrative, not a claimed archival reconstruction. Preserve enough real architecture to identify the exact site, and keep ordinary anatomy and integrated scale. Deliver one coherent cheerful landscape poster, not a collage of rectangular photographs.

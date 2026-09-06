@@ -1,0 +1,29 @@
+{
+  "tool": "built-in imagegen",
+  "planned_calls": 1,
+  "automatic_retries": 0,
+  "tool_arguments": {
+    "prompt": "Use case: style-transfer.\nAsset type: one finished opaque landscape 4:3 illustrated Moscow district poster in the same warm, humane architectural series as the approved Mossovet reference.\n\nInput images:\nImage 1 is the architectural source photograph and identity check.\nImage 2 is the approved bright Mossovet poster style reference: warm paper, painted architecture, red and turquoise accents, clear Cyrillic hierarchy, optimistic daylight and people integrated into the place. Do not copy its building or text.\nImage 3 is a neutral typography guide: use only its positions and real Cyrillic letterforms; never show its gray polygon, labels or dashed lines.\n\nStyle: cheerful hand-painted architectural poster with subtle screenprint grain, confident late-1990s/early-2000s Moscow color, warm ivory paper, cobalt blue, vermilion and fresh green. Architecture remains the dominant subject. Remove modern cars, logos, wires and unrelated advertising. No watermark, signature, extra slogans or illegible micro-writing. Keep every listed text line readable and exact.\nPrimary request: depict the Domodedovsky agricultural market by Domodedovskaya metro, as a lively neighborhood food market. Use the source facade and glass entry only as an approximate architectural anchor; the market cluster includes low retail halls, a broad entrance, signs and covered produce rows. Recompose it into a welcoming illustrated market forecourt with striped awnings, wooden produce tables, crates of apples, tomatoes and greens, and a few anonymous shoppers and vendors. People are ordinary Muscovites: an older vendor in a pale apron, a parent with a child carrying a net shopping bag, a woman choosing fruit. Make the market feel generous and local, not a luxury food hall. Main title is a large red block composition across the upper third; small cobalt accents and green produce provide rhythm. Text (verbatim):\n07\nМОСКВА · ДОМОДЕДОВСКАЯ\nДОМОДЕДОВСКИЙ РЫНОК\nОреховый бульвар, 14\nDo not invent brand names or prices.",
+    "referenced_image_paths": [
+      "../../input/07-market/01-domodedovsky-market-proxy.png",
+      "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "../../input/07-market/03-typeset-guide.png"
+    ]
+  },
+  "inputs": [
+    {
+      "path": "../../input/07-market/01-domodedovsky-market-proxy.png",
+      "sha256": "27a993e236cb46b5b4dd960ce983aa792945ea54f7b35263a686ccd93a24a031"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/07-market/03-typeset-guide.png",
+      "sha256": "f73cda0566a820a1113d46ed0812ccad4d3c7554b51e864e2a21577d367be576"
+    }
+  ],
+  "prompt_sha256": "69e89362189d565d2cf15005c7c7677172e0df9fcd692550d311b1c95ada4157",
+  "output_path": "../../../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--07-market.png"
+}

@@ -1,0 +1,14 @@
+Use case: style-transfer.
+Asset type: one finished opaque landscape 4:3 illustrated Moscow district poster in the same warm, humane architectural series as the approved Mossovet reference.
+
+Input images:
+Image 1 is the architectural source photograph and identity check.
+Image 2 is the approved bright Mossovet poster style reference: warm paper, painted architecture, red and turquoise accents, clear Cyrillic hierarchy, optimistic daylight and people integrated into the place. Do not copy its building or text.
+Image 3 is a neutral typography guide: use only its positions and real Cyrillic letterforms; never show its gray polygon, labels or dashed lines.
+
+Style: cheerful hand-painted architectural poster with subtle screenprint grain, confident late-1990s/early-2000s Moscow color, warm ivory paper, cobalt blue, vermilion and fresh green. Architecture remains the dominant subject. Remove modern cars, logos, wires and unrelated advertising. No watermark, signature, extra slogans or illegible micro-writing. Keep every listed text line readable and exact.
+Primary request: depict the Grand Palace of the Tsaritsyno museum-reserve near metro Orekhovo. Preserve the red-brick palace, white stone details, pointed towers, green roofs and broad lawn from the source photograph. Surround it with a carefully observed park edge, a few trees and a small group of visitors: a couple with a guidebook and a child looking toward the towers. Treat the architecture as the hero; do not add fantasy towers, modern festival stages or a fountain. Use an elegant deep cobalt title with a vermilion shadow and warm green park. Text (verbatim):
+09
+МОСКВА · ОРЕХОВО
+ЦАРИЦЫНО
+Большой дворец и парк

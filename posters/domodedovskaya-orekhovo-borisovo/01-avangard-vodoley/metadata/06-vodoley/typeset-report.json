@@ -1,0 +1,126 @@
+{
+  "passed": true,
+  "canvas": [
+    2048,
+    1536
+  ],
+  "text_bounds_and_cyrillic_checked": true,
+  "lines": [
+    {
+      "text": "06",
+      "bbox": [
+        94,
+        65,
+        228,
+        139
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Black.ttf",
+      "size": 100
+    },
+    {
+      "text": "МОСКВА · ДОМОДЕДОВСКАЯ",
+      "bbox": [
+        300,
+        85,
+        874,
+        121
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 40
+    },
+    {
+      "text": "1994–2000",
+      "bbox": [
+        1630,
+        85,
+        1846,
+        116
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 43
+    },
+    {
+      "text": "ВОДОЛЕЙ",
+      "bbox": [
+        95,
+        280,
+        1563,
+        554
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Black.ttf",
+      "size": 260
+    },
+    {
+      "text": "Торговый центр",
+      "bbox": [
+        95,
+        1320,
+        444,
+        1363
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 47
+    },
+    {
+      "text": "Ореховый бульвар, 15",
+      "bbox": [
+        95,
+        1410,
+        549,
+        1451
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 43
+    }
+  ],
+  "subject_polygon": [
+    [
+      125,
+      670
+    ],
+    [
+      300,
+      520
+    ],
+    [
+      365,
+      630
+    ],
+    [
+      750,
+      550
+    ],
+    [
+      815,
+      650
+    ],
+    [
+      970,
+      575
+    ],
+    [
+      1030,
+      690
+    ],
+    [
+      1190,
+      610
+    ],
+    [
+      1250,
+      720
+    ],
+    [
+      1830,
+      875
+    ],
+    [
+      1830,
+      1170
+    ],
+    [
+      125,
+      1170
+    ]
+  ]
+}

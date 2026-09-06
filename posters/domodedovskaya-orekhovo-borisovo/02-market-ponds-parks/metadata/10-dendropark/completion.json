@@ -1,0 +1,27 @@
+{
+  "completed": "2026-09-06",
+  "tool": "built-in imagegen",
+  "calls": 1,
+  "automatic_retries": 0,
+  "generated_original": "",
+  "output": "../../../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--10-dendropark.png",
+  "width": 1448,
+  "height": 1086,
+  "mode": "RGB",
+  "sha256": "0a0d666e1856d4c56cbd986c8fe3e943f433b95007f2ba9d8a0b10fd25212111",
+  "prompt_sha256": "d62d668879a29d6d41b9fc954825339a67efb0873c21f2f089807161e16f7aa0",
+  "inputs": [
+    {
+      "path": "../../input/10-dendropark/01-biryulevsky-dendropark.jpg",
+      "sha256": "8d40095931e09c4d0e17c79f57ddba23e78ccc09d0d0065d7a2827d90d5a22ce"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/10-dendropark/03-typeset-guide.png",
+      "sha256": "cf737cddd5082542322c0b8b5afc2e90b042b315e4f6c8e89535b6aaed257479"
+    }
+  ]
+}

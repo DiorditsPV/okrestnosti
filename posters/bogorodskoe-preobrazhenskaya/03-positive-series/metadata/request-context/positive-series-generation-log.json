@@ -1,0 +1,27 @@
+{
+  "completed": "2026-09-06",
+  "tool": "built-in imagegen",
+  "calls": 3,
+  "automatic_retries": 0,
+  "art_reference": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+  "posters": [
+    {
+      "id": "04-krasny-bogatyr",
+      "theme": "Рабочие · индустриализация · сила",
+      "original": "/Users/user/.codex/generated_images/01a0731e-a3c7-7713-beb3-87071e2c537a/exec-9b8d4c3b-4c8d-4600-b4f3-ca63b05a24b0.png",
+      "revision_path": "/Users/user/dev/projects/personal/zodchestvo-experiment/output/yingzao/moscow-four/04-krasny-bogatyr/revisions/v2-positive"
+    },
+    {
+      "id": "02-kalancha",
+      "theme": "Советские пожарные · передышка · восхищение",
+      "original": "/Users/user/.codex/generated_images/01a0731e-a3c7-7713-beb3-87071e2c537a/exec-08e290ba-61c7-49b0-989c-6ef689b8b035.png",
+      "revision_path": "/Users/user/dev/projects/personal/zodchestvo-experiment/output/yingzao/moscow-four/02-kalancha/revisions/v2-positive"
+    },
+    {
+      "id": "01-bogorodskoe",
+      "theme": "Пасха · семьи · весна · верба",
+      "original": "/Users/user/.codex/generated_images/01a0731e-a3c7-7713-beb3-87071e2c537a/exec-eb9a0d5d-d2cc-4d78-9529-298dd5f8e9e4.png",
+      "revision_path": "/Users/user/dev/projects/personal/zodchestvo-experiment/output/yingzao/moscow-four/01-bogorodskoe/revisions/v2-positive"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tool": "built-in imagegen",
+  "planned_calls": 1,
+  "automatic_retries": 0,
+  "tool_arguments": {
+    "prompt": "Use case: style-transfer.\nAsset type: one finished opaque landscape 4:3 illustrated Moscow district poster in the same warm, humane architectural series as the approved Mossovet reference.\n\nInput images:\nImage 1 is the architectural source photograph and identity check.\nImage 2 is the approved bright Mossovet poster style reference: warm paper, painted architecture, red and turquoise accents, clear Cyrillic hierarchy, optimistic daylight and people integrated into the place. Do not copy its building or text.\nImage 3 is a neutral typography guide: use only its positions and real Cyrillic letterforms; never show its gray polygon, labels or dashed lines.\n\nStyle: cheerful hand-painted architectural poster with subtle screenprint grain, confident late-1990s/early-2000s Moscow color, warm ivory paper, cobalt blue, vermilion and fresh green. Architecture remains the dominant subject. Remove modern cars, logos, wires and unrelated advertising. No watermark, signature, extra slogans or illegible micro-writing. Keep every listed text line readable and exact.\nPrimary request: depict Borisovskie Ponds as a broad urban water landscape shared by Orekhovo-Borisovo and the south of Moscow. Preserve the wide water surface, grassy bank, distant apartment skyline and a quiet wooden jetty from the source. Add a restrained illustrated narrative: two cyclists resting with bicycles, a parent and child near the water, reeds and a single bird. The mood is open summer leisure and a long walk, with cool blue water balancing warm paper and vermilion title. No swimming action, barbecue smoke or invented historic architecture. Text (verbatim):\n08\nМОСКВА · ОРЕХОВО-БОРИСОВО\nБОРИСОВСКИЕ ПРУДЫ\nПарк и набережная",
+    "referenced_image_paths": [
+      "../../input/08-borisovskie-prudy/01-borisovskie-prudy.jpg",
+      "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "../../input/08-borisovskie-prudy/03-typeset-guide.png"
+    ]
+  },
+  "inputs": [
+    {
+      "path": "../../input/08-borisovskie-prudy/01-borisovskie-prudy.jpg",
+      "sha256": "279046454efb9d2b0c2c3d5b6af3d078ef7d510a8a891bbeb3e1efe12c3c2366"
+    },
+    {
+      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png",
+      "sha256": "67b2c9ae994302fe6d1a23dce609ae254619e52c0e7fd4a50c99d51b9072d8ed"
+    },
+    {
+      "path": "../../input/08-borisovskie-prudy/03-typeset-guide.png",
+      "sha256": "2225aba9fce6fb657ea11557640f2b3abbb1fdec767af67c160420d306bf63df"
+    }
+  ],
+  "prompt_sha256": "df3d7318a399ae5a5676b83faa3b84a07c3ffb686857a47399506b6461aedda5",
+  "output_path": "../../../../../output/domodedovskaya-orekhovo-borisovo--02-market-ponds-parks--08-borisovskie-prudy.png"
+}
