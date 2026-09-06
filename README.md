@@ -6,17 +6,11 @@
 
 Три примера из коллекции. Все десять финальных плакатов доступны в [output/](output/).
 
-### Богородское — Храм Преображения
+Нажмите на превью, чтобы открыть полный размер.
 
-![Храм Преображения — Пасха, семьи и весна](output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png)
-
-### Преображенская площадь — Моссовет
-
-![Моссовет — советское кино, Сокольники и пионеры](output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png)
-
-### Домодедовская — Водолей
-
-![Водолей — семейная прогулка, исправленная финальная версия](output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png)
+| Богородское · Храм Преображения | Преображенская площадь · Моссовет | Домодедовская · Водолей |
+| --- | --- | --- |
+| <a href="output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png"><img src="output/bogorodskoe-preobrazhenskaya--03-positive-series--01-bogorodskoe.png" width="240" alt="Храм Преображения — Пасха, семьи и весна"></a> | <a href="output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png"><img src="output/bogorodskoe-preobrazhenskaya--02-mossovet-positive--03-mossovet.png" width="240" alt="Моссовет — советское кино, Сокольники и пионеры"></a> | <a href="output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png"><img src="output/domodedovskaya-orekhovo-borisovo--03-vodoley-fix--06-vodoley.png" width="240" alt="Водолей — исправленная финальная версия"></a> |
 
 ## Галерея
 
