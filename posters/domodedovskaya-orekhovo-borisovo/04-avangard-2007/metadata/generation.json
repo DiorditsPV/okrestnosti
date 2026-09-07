@@ -1,0 +1,15 @@
+{
+  "tool": "built-in image_gen",
+  "reference_order": [
+    "input/05-avangard/01-previous-poster.png",
+    "input/05-avangard/02-avangard-photo.png"
+  ],
+  "era": "2007",
+  "motifs": [
+    "скейтеры",
+    "Linkin Park",
+    "Limp Bizkit",
+    "веселье"
+  ],
+  "visual_check": "Проверены год 2007, название, узнаваемость здания, фигуры и положение скейтбордов."
+}

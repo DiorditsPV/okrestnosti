@@ -12,7 +12,7 @@
   "prompt_sha256": "058c84d600d65fd24c1ecd056c11feff6bc3cd55935f5ebd0a0ee56a4b8f958d",
   "inputs": [
     {
-      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--01-original--02-kalancha.png",
+      "path": "../../input/02-kalancha/01-02-kalancha.png",
       "sha256": "aec0e1c830ff06753e2a01ff6b416a8aa042a1d9bf452aaaed9201cc7b6ce556"
     },
     {

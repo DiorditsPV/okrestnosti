@@ -12,7 +12,7 @@
   "prompt_sha256": "a0932dedca090fb6a6c3464533ce4dcd0411319329497916c19877854a225c77",
   "inputs": [
     {
-      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--01-original--03-mossovet.png",
+      "path": "../../input/03-mossovet/01-03-mossovet.png",
       "sha256": "75bba79b7ccd9b5171e1692c03741134d9c8bc704ec2ae292872ca1e048ceedd"
     },
     {

@@ -12,7 +12,7 @@
   "prompt_sha256": "2e68fecbf6cac426092bda857f537cd9016e2cc1782ccb5786c624b0e3c608b0",
   "inputs": [
     {
-      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--01-original--01-bogorodskoe.png",
+      "path": "../../input/01-bogorodskoe/01-01-bogorodskoe.png",
       "sha256": "48b57a2eab8d38208ec689e6aaeb4e2ac9624e67c8972b76c124e1cc80543404"
     },
     {

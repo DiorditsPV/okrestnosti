@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "title": "Авангард — лето 2007",
+  "request": "Давай перегенерируем авангард. Изменим мотив на 2007 год, скейтеры, Линкин парк и limp bizkit, веселье.",
+  "path_base": "request-directory",
+  "posters": [
+    {
+      "id": "05-avangard",
+      "title": "Авангард — 2007, скейтеры и музыка",
+      "latest": true,
+      "output": "../../../output/domodedovskaya-orekhovo-borisovo--04-avangard-2007--05-avangard.png",
+      "prompt": "prompt/05-avangard.txt",
+      "output_sha256": "f0db4c10bdd14c223f9e288b835d68bc139293b39548c3df285388852e00c408",
+      "prompt_sha256": "4ba363d3ceb98d866fccb698749ea27a5adff0e6c98de444c090a5b3eedccf53",
+      "inputs": [
+        {
+          "path": "input/05-avangard/01-previous-poster.png",
+          "sha256": "cae42e63cdf47d3796ebfca2848d29b8509cb32183f273d0a116889f88c55488",
+          "role": "style-reference"
+        },
+        {
+          "path": "input/05-avangard/02-avangard-photo.png",
+          "sha256": "0ae91aa0efc58fbccb0ca8da210c2b317211744528fd67d444605a70fea0b3b9",
+          "role": "architecture-reference"
+        }
+      ]
+    }
+  ]
+}

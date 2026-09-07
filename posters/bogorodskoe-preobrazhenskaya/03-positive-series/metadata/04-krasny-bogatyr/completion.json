@@ -12,7 +12,7 @@
   "prompt_sha256": "bd285ad2d1961f5d9e3b5ff1de68780eb1f0ad37e87d74db59ab9d369fee7755",
   "inputs": [
     {
-      "path": "../../../../../output/bogorodskoe-preobrazhenskaya--01-original--04-krasny-bogatyr.png",
+      "path": "../../input/04-krasny-bogatyr/01-04-krasny-bogatyr.png",
       "sha256": "4a38caa6d79147c7ade751da5090df82f2c0a1b2268e3d13d0a1a73b00823bbf"
     },
     {

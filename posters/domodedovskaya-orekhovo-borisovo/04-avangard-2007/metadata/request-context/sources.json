@@ -1,0 +1,15 @@
+{
+  "05-avangard": {
+    "name": "Авангард",
+    "address": "Улица Генерала Белова, 18",
+    "photo": "../../input/05-avangard/02-avangard-photo.png",
+    "page": "https://mos-razvitie.ru/avangard",
+    "image_url": "https://static.tildacdn.com/tild3734-3839-4432-b130-346638303366/XXXL.png",
+    "publisher": "Мосразвитие",
+    "author": null,
+    "photo_date": null,
+    "license": "Свободная лицензия не указана",
+    "history": "Здание введено в эксплуатацию в 1982 году; в 1996 году кинотеатр реорганизован в центр культуры и искусства.",
+    "comment": "Архитектурный референс для сцены со скейтерами летом 2007 года."
+  }
+}
